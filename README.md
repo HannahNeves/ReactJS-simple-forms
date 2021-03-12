@@ -13,3 +13,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ✅ Validação de dados em formulários
 
 ✅ Formulários controlados e não controlados
+
+✅ Utilizando a context API
